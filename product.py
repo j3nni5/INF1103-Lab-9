@@ -1,3 +1,7 @@
+# product.py
+# Product is now an ABSTRACT class: you cannot create a plain Product.
+# You must create a PhysicalProduct or a DigitalProduct instead.
+
 from abc import ABC, abstractmethod
 
 

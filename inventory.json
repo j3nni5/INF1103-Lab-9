@@ -19,7 +19,7 @@
         "product_id": "D001",
         "name": "Photo Editor",
         "price": 59.9,
-        "stock": 100,
+        "stock": 200,
         "type": "digital",
         "download_size": 450
     }
